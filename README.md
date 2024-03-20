@@ -132,8 +132,9 @@ Done! You are set to go!
 <br /> [Diya Patel](https://github.com/42diyapatel/introduction)
 <br /> [Deepthi Sudhakaran](https://github.com/deepthi-sud/Introduction)
 <br /> [Christian Tchoutang](https://github.com/ChristDave/introduction)
-<br /> [Yuanyuan Chen](https://github.com/Zeitgeist531/introduction) <br />
+<br /> [Yuanyuan Chen](https://github.com/Zeitgeist531/introduction) 
 <br/> [Johnny Wu](https://github.com/MemeEngineer/Introduction)
+<br/> [Max Zhang](https://github.com/maxzhangg/introduction)
 <br /> [Zavier Paulino](https://github.com/Zp1021/Introduction)
  <br /> [Kai-Yin Huang](https://github.com/katehuangishere/introduction)
 <br /> [Jarin Tasnim](https://github.com/JTasnim24/introduction)
